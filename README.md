@@ -10,7 +10,7 @@ Es la evolución de un proyecto en tres etapas: diseño (Ejercitación 1.1) → 
 
 ## Enlaces
 
-- Sitio publicado: _completar (Netlify o Vercel)_
+- Sitio publicado: https://anonimax-react.vercel.app/
 - Repositorio: https://github.com/horaciomiron/anonimax-react
 - Prototipo de Figma: https://www.figma.com/make/Wgc7l3TwJf04ijG8DCSI1z/AI-Legal-Document-Analyzer?t=T0AWejI6W2Yxdhb5-1
 - Versión 3.1 (HTML/CSS/JS): https://github.com/horaciomiron/anonimax · https://horaciomiron.github.io/anonimax/
